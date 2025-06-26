@@ -1,0 +1,34 @@
+# EnigmaVerse
+
+EnigmaVerse is an easy-to-use program that utilizes AES encryption to securely encrypt and decrypt text.
+
+## Features
+
+⌨️ **AES Encryption:** EnigmaVerse employs the Advanced Encryption Standard (AES) encryption.
+
+🔑 **Secure Key Exchange:** Texts can only be decrypted with the correct key.
+
+🔐 **Key Management:** Users can easily save and load their keys. C:\Users\NAME\Documents\EnigmaVerse
+
+![Screenshot EnigmaVerse](https://github.com/chriko3/EnigmaVerse/blob/main/enigmaversescreenshot.png)
+## Installation
+To use EnigmaVerse, you have two of options:
+
+### Using the Executable (Windows):
+Download the latest executable file under Releases.
+
+Simply run the executable to use EnigmaVerse without any additional setup.
+
+### Using Visual Studio (Windows):
+Open the project in Visual Studio.
+Continue developing or running the program within Visual Studio environment.
+Choose the method that best suits your needs!
+
+## Troubleshooting Visual Studio Debugging (Windows):
+If you encounter an error while trying to debug the project in Visual Studio, such as "Couldn't process any Form1.resx file due to its being in the Internet or Restricted zone or having the mark of the web on the file," follow these steps:
+1. Right-click on the Form1.resx file in the Solution Explorer.
+2. Select "Properties."
+3. Click on "Unblock" to allow access to the file.
+
+After unblocking the file, try debugging the project again in Visual Studio.
+
