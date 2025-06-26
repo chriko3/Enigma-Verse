@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\bin\Debug\EnigmaVerse.exe.config
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\bin\Debug\EnigmaVerse.exe
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\bin\Debug\EnigmaVerse.pdb
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\obj\Debug\EnigmaVerse.Form1.resources
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\obj\Debug\EnigmaVerse.Properties.Resources.resources
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\obj\Debug\EnigmaVerse.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\obj\Debug\EnigmaVerse.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\obj\Debug\EnigmaVerse.exe
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\obj\Debug\EnigmaVerse.pdb
+C:\Users\chris\source\repos\EnigmaVerse\EnigmaVerse\obj\Debug\EnigmaVerse.csproj.AssemblyReference.cache
