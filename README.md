@@ -30,5 +30,5 @@ If you encounter an error while trying to debug the project in Visual Studio, su
 2. Select "Properties."
 3. Click on "Unblock" to allow access to the file.
 
-After unblocking the file, try debugging the project again in Visual Studio.
+After unblocking the file, try debugging the project again in Visual Studio!
 
